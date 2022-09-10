@@ -1,1 +1,1 @@
-# rsschool-cv
+https://dshparko.github.io/rsschool-cv/cv
