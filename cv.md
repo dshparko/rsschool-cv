@@ -1,5 +1,5 @@
 # Darya Shparko
-![Darya Shparko](https://vk.com/dshparko?z=photo171242038_457247180%2Falbum171242038_0%2Frev)
+![Darya Shparko](https://sun9-68.userapi.com/impg/HEX0fhL7vJncn2Dz8-lF9JeHke4MwFImSox0BQ/9D5F4WhlA5o.jpg?size=1440x2160&quality=96&sign=38532d6b5fe7d000e546faaf4cb1c0c9&type=album)
 ## Contacts
 * phone: +375292564221
 * th: https://t.me/dshparko
