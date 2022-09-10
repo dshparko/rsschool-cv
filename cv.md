@@ -21,18 +21,15 @@ I have good disposition to work in a team and adapt myself to a new environment.
 * AndroidStudio
 ## Code examples
 ```
-const router = require("express").Router();
-
-router.post("/", verifyToken, async (req, res) => {
-    const newOrder = new Order(req.body);
-    console.log(verifyToken);
-    try {
-        const savedOrder = await newOrder.save();
-        res.status(200).json(savedOrder);
-    } catch (err) {
-        res.status(500).json(err);
-    }
-});
+function findShort(s){
+  let inputData = s.split(" ");
+  let min = Infinity;
+  
+  for (let i = 0; i < inputData.length; i++) {
+    min = Math.min(inputData[i].length, min);
+  }
+  return min;
+}
 ``` 
 ## Work experience
 * [CandyShop](https://github.com/dshparko/candyShop)
